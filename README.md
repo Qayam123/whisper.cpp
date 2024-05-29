@@ -842,3 +842,4 @@ If you have any kind of feedback about this project feel free to use the Discuss
 You can use the [Show and tell](https://github.com/ggerganov/whisper.cpp/discussions/categories/show-and-tell) category
 to share your own projects that use `whisper.cpp`. If you have a question, make sure to check the
 [Frequently asked questions (#126)](https://github.com/ggerganov/whisper.cpp/discussions/126) discussion.
+Note: The Audio file must be in 16 KHz frequency and if it's not then the fconv.py file can be run to get an output file in 16KHz using a python terminal
